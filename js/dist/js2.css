@@ -1,0 +1,20 @@
+body {
+  background: dimgray;
+  background: linear-gradient(173deg, rgba(105, 105, 105, 0.2665441176) 0%, #9d9d9d 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lucida Console", Courier, monospace;
+}
+body h1 {
+  text-align: center;
+  font-size: 10em;
+}
+
+body {
+  flex-wrap: wrap;
+}
+body h1 {
+  font-size: 200%;
+  width: 100%;
+}
