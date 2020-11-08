@@ -14,7 +14,7 @@
                 return;
             }
 
-            console.log('%c¡¡Perfecto!! Ahora estoy en blanco... y tengo otra tarea para ti... ve a ', 'color: ' + fontColor + '; font-size: ' + textFontSize + ';');
+            header.innerText = '¡¡Perfecto!! Ahora estoy en blanco... y tengo otra tarea para ti... ve a ';
         });
     });
 
