@@ -1,6 +1,6 @@
 const fontColor = '#bada55';
-            const titleFontSize = '500%';
-            const textFontSize = '200%';
+const titleFontSize = '500%';
+const textFontSize = '200%';
 
 (function(){
     console.log('%c¡Hola!', 'color: ' + fontColor + '; font-size: ' + titleFontSize + ';');
@@ -9,5 +9,5 @@ const fontColor = '#bada55';
 })();
 
 function hola(){
-    console.log('%cEso está mejor, un poco de educación. Para continuar con la caza ve a ', 'color: ' + fontColor + '; font-size: ' + textFontSize + ';');
+    console.log('%cEso está mejor, un poco de educación. Para continuar con la caza ve a https://caza-codigos.herokuapp.com/css/css1.html', 'color: ' + fontColor + '; font-size: ' + textFontSize + ';');
 }
